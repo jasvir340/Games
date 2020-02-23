@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Game_Edit</string>
+    <string name="message_1">Think a number between 1-21</string>
+    <string name="message_2">Select the deck which contains your number</string>
+</resources>
